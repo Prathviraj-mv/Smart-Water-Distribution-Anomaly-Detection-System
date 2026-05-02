@@ -106,21 +106,7 @@ Features:
 
 ---
 
-## System Design Advantages
 
-- **Modularity**
-  - Each zone is self-contained and replicable  
-
-- **Scalability**
-  - New zones can be added without redesign  
-
-- **Fault Isolation**
-  - Issues localized to specific zones or components  
-
-- **Reliability**
-  - Multi-sensor fusion reduces false positives  
-
----
 
 ## Working Principle
 The system correlates multiple sensing modalities within each zone and compares behavior across zones to detect:
@@ -144,7 +130,21 @@ The system correlates multiple sensing modalities within each zone and compares 
 </table>
 
 ## CAD Design
+## System Design Advantages
 
+- **Modularity**
+  - Each zone is self-contained and replicable  
+
+- **Scalability**
+  - New zones can be added without redesign  
+
+- **Fault Isolation**
+  - Issues localized to specific zones or components  
+
+- **Reliability**
+  - Multi-sensor fusion reduces false positives  
+
+---
 <table>
   <tr>
     <td><img src="Images/Screenshot 2026-04-27 194228.png" width="100%"/></td>
