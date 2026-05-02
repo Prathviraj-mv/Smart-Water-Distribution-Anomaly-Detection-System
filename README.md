@@ -56,44 +56,7 @@ Each **zone** includes:
 
 ---
 
-## Dashboard (Frontend)
-Built using **HTML and CSS**
 
-Features:
-- Live sensor data streaming  
-- Zone-wise monitoring panels  
-- Status indicators (normal / abnormal)  
-- Real-time anomaly alerts  
-- Basic trend visualization  
-
----
-
-## System Design Advantages
-
-- **Modularity**
-  - Each zone is self-contained and replicable  
-
-- **Scalability**
-  - New zones can be added without redesign  
-
-- **Fault Isolation**
-  - Issues localized to specific zones or components  
-
-- **Reliability**
-  - Multi-sensor fusion reduces false positives  
-
----
-
-## Working Principle
-The system correlates multiple sensing modalities within each zone and compares behavior across zones to detect:
-
-- Leaks  
-- Blockages  
-- Contamination  
-- Structural pipeline issues
-- load
-
----
 
 
 # Project Gallery
@@ -131,6 +94,44 @@ The system correlates multiple sensing modalities within each zone and compares 
 
 ## Software Dashboard
 
+
+Built using **HTML and CSS**
+
+Features:
+- Live sensor data streaming  
+- Zone-wise monitoring panels  
+- Status indicators (normal / abnormal)  
+- Real-time anomaly alerts  
+- Basic trend visualization  
+
+---
+
+## System Design Advantages
+
+- **Modularity**
+  - Each zone is self-contained and replicable  
+
+- **Scalability**
+  - New zones can be added without redesign  
+
+- **Fault Isolation**
+  - Issues localized to specific zones or components  
+
+- **Reliability**
+  - Multi-sensor fusion reduces false positives  
+
+---
+
+## Working Principle
+The system correlates multiple sensing modalities within each zone and compares behavior across zones to detect:
+
+- Leaks  
+- Blockages  
+- Contamination  
+- Structural pipeline issues
+- load
+
+---
 <table>
   <tr>
     <td><img src="Images/WhatsApp Image 2026-05-02 at 09.29.53.jpeg" width="100%"/></td>
