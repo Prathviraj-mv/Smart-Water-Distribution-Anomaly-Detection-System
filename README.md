@@ -90,20 +90,12 @@ The system correlates multiple sensing modalities within each zone and compares 
 - Leaks  
 - Blockages  
 - Contamination  
-- Structural pipeline issues  
+- Structural pipeline issues
+- load
 
 ---
 
-## Applications
-- Smart water distribution systems  
-- Municipal pipeline monitoring  
-- Rural water infrastructure  
-- Industrial fluid monitoring  
 
----
-
-## Conclusion
-This system provides a practical and deployable solution for continuous monitoring of water distribution infrastructure, ensuring improved reliability, early fault detection, and efficient resource management across urban and semi-remote environments.
 # Project Gallery
 
 ## Hardware
