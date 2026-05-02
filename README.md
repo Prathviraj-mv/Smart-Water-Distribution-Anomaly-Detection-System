@@ -1,4 +1,37 @@
+# Smart Water Distribution & Anomaly Detection
 
+## System
+- Multi-node IoT architecture (Node A, B, C)
+- Local processing + web dashboard
+- No cloud dependency
+
+## Inputs
+- Flow
+- Pressure + Temperature (BMP180)
+- Ultrasonic (level)
+- MPU6050 (vibration)
+- TDS, pH
+- GPS
+
+## Processing
+- Sensor fusion
+- Feature aggregation per zone
+- Random Forest model
+
+## Output
+- Anomaly detection (leak, blockage, contamination)
+- Zone-wise status
+- Alerts + recommendations
+
+## Dashboard
+- Live graphs
+- Map view (GPS zones)
+- Anomaly panel
+
+## Hardware
+- Arduino-based nodes
+- Solar-powered
+- Modular 3D-printed structure
 # Project Gallery
 
 ## Hardware
