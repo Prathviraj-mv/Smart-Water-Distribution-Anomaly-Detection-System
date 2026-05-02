@@ -129,7 +129,7 @@ The system correlates multiple sensing modalities within each zone and compares 
   </tr>
 </table>
 
-## CAD Design
+
 ## System Design Advantages
 
 - **Modularity**
