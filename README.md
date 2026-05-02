@@ -16,11 +16,11 @@
     <td><img src="Images/WhatsApp Image 2026-05-02 at 10.43.27.jpeg" width="100%"/></td>
     <td><img src="Images/WhatsApp Image 2026-05-02 at 10.43.27 (1).jpeg" width="100%"/></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><img src="Images/WhatsApp Image 2026-05-02 at 10.43.28.jpeg" width="100%"/></td>
     <td><img src="Images/WhatsApp Image 2026-05-02 at 10.43.44.jpeg" width="100%"/></td>
     
-  </tr>
+  </tr> -->
   <tr>
     <td><img src="Images/WhatsApp Image 2026-05-02 at 10.43.41.jpeg" width="100%"/></td>
     <td><img src="Images/WhatsApp Image 2026-05-02 at 10.43.42.jpeg" width="100%"/></td>
@@ -42,5 +42,14 @@
   <tr>
     <td><img src="Images/WhatsApp Image 2026-05-02 at 09.31.04.jpeg" width="100%"/></td>
     <td></td>
+  </tr>
+</table>
+
+## CAD Design
+
+<table>
+  <tr>
+    <td><img src="Images/Screenshot 2026-04-27 194228.png" width="100%"/></td>
+    <td><img src="Images/Screenshot 2026-04-27 194642.png" width="100%"/></td>
   </tr>
 </table>
